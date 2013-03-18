@@ -1,4 +1,4 @@
-pulbic class foobar
+public class foobar
 {
 	public static void main(String[] args)
 	{
